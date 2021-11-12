@@ -1,0 +1,3 @@
+https://linuxize.com/post/bash-functions/
+https://www.hostinger.mx/tutoriales/comando-curl
+https://stackoverflow.com/questions/3980668/how-to-get-a-password-from-a-shell-script-without-echoing
