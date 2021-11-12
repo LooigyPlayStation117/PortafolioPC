@@ -1,0 +1,26 @@
+Linux
+Node with IP: 192.168.100.63 is up.
+445 open 
+80 open 
+Node with IP: 192.168.100.2 is up. 
+23 open 
+Node with IP: 192.168.100.1 is up. 
+8a open 
+Node with IP: 192.168.100.11 is up. 
+8a open 
+8a open 
+23 open 
+53 open 
+Node with IP: 192.168.100.1 is up. 
+445 open 
+135 open 
+Node with IP: 192.168.100.59 is up. 
+445 open 
+8a open 
+Node with IP: 192.168.100.1 is up. 
+53 open 
+135 open 
+8a open 
+139 Open 
+Node with IP: 192.168.100.59 is up. 
+139 open
